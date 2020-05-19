@@ -1,0 +1,17 @@
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.deps.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.runtimeconfig.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.runtimeconfig.dev.json
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.dll
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.pdb
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.csprojAssemblyReference.cache
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.csproj.CoreCompileInputs.cache
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.AssemblyInfoInputs.cache
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.AssemblyInfo.cs
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.dll
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.pdb
+C:\Users\Snezz\source\repos\ASPNETCore20-Parte2-master\Aulas\Aula1\antes\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.aula1.antes.genruntimeconfig.cache
